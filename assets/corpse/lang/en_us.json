@@ -1,0 +1,8 @@
+{
+  "gui.corpse.page": "\u00a77%s of %s",
+  "gui.corpse.death_history.title": "\u00a77Player Death History",
+  "gui.corpse.death_history.name": "\u00a77Name",
+  "gui.corpse.death_history.date_format": "\u00a77yyyy/MM/dd HH:mm:ss",
+  "gui.corpse.death_history.dimension": "\u00a77Dimension",
+  "gui.corpse.death_history.location": "\u00a77Location",
+}
